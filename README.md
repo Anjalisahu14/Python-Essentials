@@ -1,1 +1,1 @@
-# Python-Essentials
+Pandas data manupulation, Numpy in details
